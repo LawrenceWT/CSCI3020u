@@ -1,0 +1,28 @@
+Conceptual Questions 
+
+
+1. Linux is a free, open surce unix-like OS which uses the GNU General
+ . Public Library (GPL) to remain open and free.It was created by Linus Toralds
+   Linux was originally originally designed to handle the 386 processes by 
+   Intel, but now it has been ported to nearly every computer architecture.
+   Linux has been used in mobile phones, routers, televisions, consoles,
+   toasters, desktop computers, most servers, and nearly every super computer
+   in the world. 
+
+2. A software that is "free" or open source means that its source code is 
+   available to the general public for use and/or modifications from its 
+   original design. This means anyone can edit and modify the code to add
+   improvements for the community to use. A sftware that is open source uses
+   the GNU GPL in order to implement a "copyleft" licenses that require it to 
+   remain open, free, and accessible to anyone.
+
+3. Since Linux is open source, it is free to everyone and anyone can edit and
+   change it. However, anyone can make changes to the source code, for better
+   or for worse. 
+
+
+4. GNU GPL is an open source license
+
+5. STDIN(0) - input
+   STDOUT(1) - output
+   STDERR(2) - errors
